@@ -1,0 +1,90 @@
+body{
+  background: linear-gradient(to top,purple, black);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}h2{
+  color: #d969ff; /*light purple*/
+  font-family:"Big Shoulders", serif;
+  border-top-style: dotted;
+  padding:5px;
+  border-bottom-style: dotted;
+  text-align:center;
+}h3{
+  color:#cc14ff; /*really purple*/
+  font-family: "Big Shoulders", serif;
+  text-align:center;
+  border-left-style: double;
+  border-right-style: double;
+  padding:5px;
+  border-top-style:solid;
+  border-bottom-style:solid;
+  border-width:5px;
+}dd{
+  color:white;
+  font-family:"Times New Roman", serif;
+  font-size:18px;
+}dt{
+  color:#8523db; /*purple*/
+  font-family: serif;
+  font-size:20px;
+}dl{
+  border-style:solid;
+  border-color:#8523db;
+  border-width:3px;
+  padding:10px;
+}#will{
+  border-style: solid;
+  border-width: px;
+  border-color: #8523db;
+  margin-top: 5px;
+  float: left;
+}#will_would{
+  text-align: center;
+  float:bottom;
+}#will1{
+  text-align:center;
+}#will2{
+  position:relative;
+  bottom:20px;
+}p{
+  color:white;
+  font-family:"Times New Roman", serif;
+  font-size:18px;
+}.small_text{
+  color:#d45ff5; /*small purple*/
+  font-family: serif;
+  font-size:13px;
+}li{
+  color:white;
+  font-family:"Times New Roman", serif;
+  font-size: 20px;
+}#autism{
+  width:25px;
+  height:25px;
+  position: fixed;
+  right:25px;
+  top:25px;
+  border: 2px solid #d969ff;
+}a{
+  color:white;
+  font-family:serif;
+  text-align: center;
+  margin: 0 auto;
+  margin-top:20px;
+  display: block;
+}.box{
+  border: 2px solid #8523db;
+  
+}.center{
+  display:flex;
+  justify-content:center;
+}
+.std_image{
+  width:200px;
+  height:200px;
+  margin:20px;
+  border: 2px solid #8523db;
+}.pg_btn{
+  display:flex;
+  justify-content:center;
+}
